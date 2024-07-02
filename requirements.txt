@@ -1,0 +1,5 @@
+qrcode
+twillo
+pymongo
+transformers
+torch
