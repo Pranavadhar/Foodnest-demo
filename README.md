@@ -1,4 +1,5 @@
 # Foodnest-demo
+install Mongo DB -> refer : https://www.mongodb.com/try/download/community
 Code 1:
 
 This Python script generates a QR code for a WhatsApp link. The QR code can be scanned to open a chat with the specified WhatsApp number. The script uses the qrcode library to create the QR code and saves it as an image file named whatsapp_qr.png.
